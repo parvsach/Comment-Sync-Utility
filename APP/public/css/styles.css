@@ -1,0 +1,26 @@
+body, html {
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+}
+.header {
+    background-color: #000000;
+    height: 20%;
+}
+.header-cell {
+    color:#ffffff;
+    text-align: center;
+    margin: 0;
+    position: relative;
+    top:40%;
+}
+.content{
+    margin: 0;
+    text-align: center;
+}
+.comment {
+    width:70%;
+    height:30%;
+    border: 2px solid #dddddd;
+    margin-top: 10px;
+}

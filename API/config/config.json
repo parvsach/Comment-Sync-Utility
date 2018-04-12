@@ -1,0 +1,16 @@
+﻿{
+    "logger": {
+        "filePath": "logs/dbviewer.log",
+        "level": "debug",
+        "type": "winston"
+    },
+
+    "database": {
+        "host": "localhost",
+        "port": "27017",
+        "dbName": "CommentSync",
+        "username": "sachdeva",
+        "password": "sachdeva",
+        "seedData": false
+    }
+}
